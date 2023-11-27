@@ -1,0 +1,24 @@
+@font-face {
+  font-family: myFont;
+  src: url(CourierPrime-Regular.ttf);
+  font-stretch: expanded;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: myFont;
+  padding-top:70px;
+  padding-bottom:70px;
+  padding-left:150px;
+  padding-right:150px;
+  line-height: 20pt;
+}
+.back { 
+  background-color:black;
+  padding:40px;
+}
+
+h1 {
+  font-size: 60px;
+}
